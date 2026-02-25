@@ -5,4 +5,6 @@ body{
 
 div{
    background-color: rgb(#470c0c, rgb(0, 0, 0), rgb(255, 0, 98));
+   position:absolute;
+   top:50%;
 }

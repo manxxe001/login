@@ -1,4 +1,8 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(rgba(116, 100, 116, 0.418));
+    background-color: rgba(255, 0, 0, 0.788);
+}
+
+div{
+   background-color: rgb(#ff0000, rgb(0, 0, 0), rgb(255, 0, 98));
 }
